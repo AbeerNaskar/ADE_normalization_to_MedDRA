@@ -15,7 +15,15 @@ Connect extracted ADE term to MedDRA terms
 
 6. The final block is my rough work, I used that for development and checking. I am still keeping it, if you want to explore. But those may be irrelvant.
 
-7. Have fun
+7. If you can not see the ipynb file, open it in your local machine and you can open it in colab too
+
+8. Sometime, I use path "/content" which is basically colab path, (change it accordingly)
+
+9. Sometime I downloaded higgingface models and use that, you can understand by seeing their path
+
+10. There might be redundant pip installation. Please ignore them
+    
+11. Have fun
 
 
 # Citation
