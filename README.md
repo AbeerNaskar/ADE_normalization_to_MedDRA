@@ -7,7 +7,7 @@ Connect extracted ADE term to MedDRA terms
 
 2. Keep all data provided in the shared task, in the same folder the notebook is
 
-3. Some time I use my local laptop (6 GB basic NVIDIA GPU), SPARTAN (University provided high end GPU, A100, 80GB, however, we do not need that much) and colab (as sometime I need to avoid download all models to my local to save space). You can run entire code in a GPU which has 24 GB GPU (I tried it too with NVIDIA A40 \approx 24 GP GPU).
+3. Some time I use my local laptop (6 GB basic NVIDIA GPU), SPARTAN (University provided high end GPU, A100, 80GB, however, we do not need that much) and colab (as sometime I need to avoid download all models to my local to save space). You can run entire code in a GPU which has 24 GB GPU (I tried it too with NVIDIA A40 &asymp; 24 GP GPU).
 
 4. Please be careful about the file names, as I run in in three different machine, and I need to combine all output, so I have to use different names.
 
